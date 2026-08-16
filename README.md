@@ -1,16 +1,18 @@
-### Hi there 👋
+### ivnisc (iván isaac)
 
-<!--
-**ivnisc/ivnisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- computer science & engineering student
+- based in Santiago, Chile
 
-Here are some ideas to get you started:
+i spend an unreasonable amount of time wondering how things work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and an even more unreasonable amount taking them apart to find out.
+
+computers are my favorite medium. i like moving between different layers, measuring things, breaking assumptions, and figuring out what actually happens underneath.  
+
+music is the first of a very long list of interests. somehow, the same obsession with structure, rhythm and tiny details keeps finding its way into the software i build.
+
+probably coding something, or asking a question that could've been left alone.
+
+
+<a href="mailto:ivnics@protonmail.com">email</a> ·
+<a href="https://www.linkedin.com/in/ivnisc/">linkedin</a>
