@@ -14,5 +14,5 @@ music is the first of a very long list of interests. somehow, the same obsession
 probably coding something, or asking a question that could've been left alone.
 
 
-<a href="mailto:ivnics@protonmail.com">email</a> ·
+<a href="mailto:ivnisc@protonmail.com">email</a> ·
 <a href="https://www.linkedin.com/in/ivnisc/">linkedin</a>
